@@ -1,4 +1,4 @@
-# Analisi Coefficiente di Attrito da Modello Blender
+# Applicazione dell'analogia della lastra piana sulla centerline bidimensionale di un modello 3D
 
 Questo progetto utilizza un modello 3D in Blender ispirato a una dodge challenger srt hellcat per estrarre le lunghezze del dorso e del ventre dell'auto riferite al frame della centerline e calcolare il coefficiente di attrito CF e la resistenza di attrito tramite l'analogia della lastra piana per diverse condizioni dello strato limite.
 
